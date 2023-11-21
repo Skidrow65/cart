@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Adidas",
+        "price": 1800,
+        "image": "images/1.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" Adidas",
+        "price": 1500,
+        "image": "images/2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" Adidas",
+        "price": 2900,
+        "image": "images/3.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" Nike",
+        "price": 2700,
+        "image": "images/4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" Nike",
+        "price": 3600,
+        "image": "images/air (1).jpeg"
+    },
+    {
+        "id": 6,
+        "name":" Nike",
+        "price": 3300,
+        "image": "images/air (2).jpeg"
+    },
+    {
+        "id": 7,
+        "name":" Nike",
+        "price": 2500,
+        "image": "images/air (3).jpeg"
+    },
+    {
+        "id": 8,
+        "name":" Nike",
+        "price": 3500,
+        "image": "images/air (4).jpeg"
+    }
+
+]
